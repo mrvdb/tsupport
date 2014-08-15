@@ -8,6 +8,9 @@
 (define-derived-mode tsupport-mode text-mode "tsupport" ()
   "Tsupport major mode, editting support templates etc.")
 
+(defun tsupport-tokens()
+  (rx (and "{" (group (or "KEYS" "VALUE")) "}")))
+
 (defun tsupport-regex()
   (rx (group
 	   "{" (group "KEYS") "}\n"
@@ -18,10 +21,9 @@
 (defconst tsupport-font-lock-keywords
   `(
     ;; Regular expression literals
-    (,(tsupport-regex) 2 font-lock-string-face)        ;; KEYS
-    (,(tsupport-regex) 3 font-lock-function-name-face) ;; the key strings
-    (,(tsupport-regex) 5 font-lock-string-face)))      ;; VALUE
-
+    (,(tsupport-tokens) 1 font-lock-string-face)        ;; KEYS and VALUE
+    (,(tsupport-regex) 3 font-lock-function-name-face)) ;; key strings
+)
 
 (defun tsupport-mode-setup ()
   "Initialize the mode."
