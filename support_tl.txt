@@ -6,8 +6,11 @@ img:screenshots/test.jpg
 {KEYS}
 nl_upd
 {VALUE}
-Nog een kleine toevoeging, we hebben een nieuwe versie van Telegram uitgebracht, die is hier te vinden:
-https://itunes.apple.com/nl/app/telegram-hd/id898228810?mt=8
+Nog een kleine toevoeging, we hebben een nieuwe versie van Telegram
+uitgebracht, die is hier te vinden:
+
+  https://itunes.apple.com/nl/app/telegram-hd/id898228810?mt=8
+
 De versie die je nu gebruikt krijgt, voor zover ik weet, geen updates meer.
 Nadat je die hebt geïnstalleerd kun je deze (de oude) verwijderen als je wilt.
 
@@ -22,50 +25,54 @@ have Telegram. You can also create groups for up to 200 people.
 
 With Telegram you can do all of this on all your devices at the same time.
 Here is a list of Telegram apps for mobile devices and desktops:
-https://telegram.org/apps
+  https://telegram.org/apps
 
 If you want to learn more about Telegram, check out our FAQ:
-https://telegram.org/faq
+  https://telegram.org/faq
 And here you can find a selection of articles about us:
-https://telegram.org/press
+  https://telegram.org/press
 
 {KEYS}
 nl_telegram
 nl_tg
 {VALUE}
-Telegram is het beste van SMS en email gecombineerd, snel, veelzijdig en krachtig. Je kunt berichten versturen, video's en willekeurige andere bestanden (.doc,.zip,.mp3,enz.) naar mensen in je adresboek die Telegram geïnstalleerd hebben. Ook kun je groepen aanmaken met een maximale grootte van 200 mensen.
+Telegram is het beste van SMS en email gecombineerd, snel, veelzijdig
+en krachtig. Je kunt berichten versturen, video's en willekeurige
+andere bestanden (.doc,.zip,.mp3,enz.) naar mensen in je adresboek die
+Telegram geïnstalleerd hebben. Ook kun je groepen aanmaken met een
+maximale grootte van 200 mensen.
 
 Telegram maakt het mogelijk om dit tegelijkertijd te doen op al je apparaten.
 Hier is een lijst met Telegram apps voor mobiele apparaten en desktops.
-https://telegram.org/apps
+  https://telegram.org/apps
 
 Als je meer te weten wilt komen over Telegram, hier is onze FAQ:
-https://telegram.org/faq
+  https://telegram.org/faq
 En een aantal informatieve artikelen over ons:
-https://telegram.org/press
-
+  https://telegram.org/press
 
 {KEYS}
 invitefriends
 inv
 {VALUE}
 To invite friends just send them this link:
-https://telegram.org/dl
+  https://telegram.org/dl
 
 Remember, that your friend need to know your phone number to send you
 a message.  Here is a full list of Telegram apps:
-https://telegram.org/apps
+  https://telegram.org/apps
 
 {KEYS}
 nl_invitefriends
 nl_inv
 {VALUE}
 Vrienden uitnodigen doe je door ze deze link te sturen:
-https://telegram.org/dl
+  https://telegram.org/dl
 
-Denk eraan dat je vrienden je telefoonnummer moeten weten om je een bericht te kunnen sturen.
+Denk eraan dat je vrienden je telefoonnummer moeten weten om je een
+bericht te kunnen sturen.
 Een volledige lijst van alle Telegram apps is hier te vinden:
-https://telegram.org/apps
+  https://telegram.org/apps
 
 {KEYS}
 sendmsg
@@ -85,11 +92,16 @@ your friend from the list and send the message.
 nl_sendmsg
 nl_sm
 {VALUE}
-Om een bericht te versturen moet je contactpersonen hebben die ook Telegram geïnstalleerd hebben op hun apparaat.
+Om een bericht te versturen moet je contactpersonen hebben die ook
+Telegram geïnstalleerd hebben op hun apparaat.
 
-IOS: In het Chat scherm, selecteer de knop rechtsboven in het scherm (nieuw bericht), selecteer vervolgens de gewenste persoon uit de lijst en verstuur het bericht.
+IOS: In het Chat scherm, selecteer de knop rechtsboven in het scherm
+(nieuw bericht), selecteer vervolgens de gewenste persoon uit de lijst
+en verstuur het bericht.
 
-Android: In het hoofdscherm, druk op de nieuw bericht knop (tekstwolk met plus), selecteer vervolgens de gewenste persoon uit de lijst en verstuur het bericht.
+Android: In het hoofdscherm, druk op de nieuw bericht knop (tekstwolk
+met plus), selecteer vervolgens de gewenste persoon uit de lijst en
+verstuur het bericht.
 
 {KEYS}
 whatsapp
@@ -102,27 +114,31 @@ is a noncommercial open source project.
 
 You can use Telegram on all your devices at once (including desktop
 computers and no-wifi devices). Here's a full list of Telegram apps:
-https://telegram.org/apps
+  https://telegram.org/apps
 
 If you want to learn more about Telegram, check out our FAQ:
-https://telegram.org/faq
+  https://telegram.org/faq
 You may also find these articles about Telegram interesting:
-https://telegram.org/press
+  https://telegram.org/press
 
 {KEYS}
 nl_whatsapp
 nl_wa
 {VALUE}
-Telegram is gratis, veilig en krachtig. Met Telegram kun je groepen maken met maximaal 200 leden en een ongelimiteerd aantal foto's, grote video's en willekeurige andere bestanden (.doc, .ppt, .zip, enz.) delen. Telegram is een non-commercieel, open source project.
+Telegram is gratis, veilig en krachtig. Met Telegram kun je groepen
+maken met maximaal 200 leden en een ongelimiteerd aantal foto's, grote
+video's en willekeurige andere bestanden (.doc, .ppt, .zip, enz.)
+delen. Telegram is een non-commercieel, open source project.
 
-Je kunt Telegram op al je apparaten tegelijkertijd gebruiken (inclusief desktop computers en apparaten zonder WiFi).
+Je kunt Telegram op al je apparaten tegelijkertijd gebruiken
+(inclusief desktop computers en apparaten zonder WiFi).
 Hier is een lijst met Telegram apps voor mobiele apparaten en desktops.
-https://telegram.org/apps
+  https://telegram.org/apps
 
 Als meer te weten wilt komen over Telegram, hier is onze FAQ:
-https://telegram.org/faq
+  https://telegram.org/faq
 En een aantal informatieve artikelen over ons:
-https://telegram.org/press
+  https://telegram.org/press
 
 
 {KEYS}
@@ -132,19 +148,26 @@ fr
 Telegram is a noncommercial open-source project. It is 100% free and
 will stay free forever — no ads, no fees, no subscriptions. You can
 read more about this here:
-https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this
+
+ https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this
 
 Remember: Telegram needs internet to work. So if you are not on wifi,
 your carrier may charge you for mobile data.
 
 {KEYS}
 nl_free
-nl_fre
+nl_fr
 {VALUE}
-Telegram is een non-commercieel open-source project. Telegram is 100% gratis en zal dat ook altijd blijven, geen advertenties, geen kosten, geen abonnement. Meer hierover is te vinden op: https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this
+Telegram is een non-commercieel open-source project. Telegram is 100%
+gratis en zal dat ook altijd blijven, geen advertenties, geen kosten,
+geen abonnement. Meer hierover is te vinden op:
 
-Belangrijk: Telegram heeft internet nodig om te functioneren, als je geen WiFi verbinding hebt maakt Telegram gebruik van je mobiele data verbinding. Je provider kan hier geld voor rekenen.
-(Hiervoor heb je dus een data-bundel nodig)
+  https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this
+
+Belangrijk: Telegram heeft internet nodig om te functioneren, als je
+geen WiFi verbinding hebt maakt Telegram gebruik van je mobiele data
+verbinding. Je provider kan hier geld voor rekenen.  (Hiervoor heb je
+dus een data-bundel nodig)
 
 
 {KEYS}
@@ -155,20 +178,24 @@ Telegram is a global project with infrastructure all over the
 world. We tried to keep it as decentralized and spread across as many
 different jurisdictions as possible. If you want to learn more about
 the people behind Telegram, please check out our FAQ:
-https://telegram.org/faq#general-questions
+  https://telegram.org/faq#general-questions
 
 You may also find these articles interesting:
-http://telegram.org/press
+  http://telegram.org/press
 
 {KEYS}
 nl_base
 nl_b
 {VALUE}
-Telegram is een wereldwijd project met infrastructuur overal ter wereld. We proberen om onze infrastructuur zo gedecentraliseerd en verspreid mogelijk te houden over verschillende rechtsgebieden. Als je meer te weten wilt komen over de mensen achter Telegram, bekijk dan onze FAQ:
-https://telegram.org/faq#general-questions
+Telegram is een wereldwijd project met infrastructuur overal ter
+wereld. We proberen om onze infrastructuur zo gedecentraliseerd en
+verspreid mogelijk te houden over verschillende rechtsgebieden.
+Als je meer te weten wilt komen over de mensen achter Telegram, bekijk
+dan onze FAQ:
+  https://telegram.org/faq#general-questions
 
 En een aantal informatieve artikelen over ons:
-https://telegram.org/press
+  https://telegram.org/press
 
 
 {KEYS}
@@ -180,16 +207,18 @@ messenger. And we are continuously working with the community to
 improve the security of our protocol and clients.
 
 You can learn more about Telegram security here:
-https://telegram.org/faq#security
+  https://telegram.org/faq#security
 
 {KEYS}
 nl_security
 nl_sec
 {VALUE}
-We hebben ons best gedaan om van Telegram de veiligste, grootschalige, messenger app te maken. We zijn constant bezig met onze community om de beveiliging van ons protocol en de diverse clients te verbeteren.
+We hebben ons best gedaan om van Telegram de veiligste, grootschalige,
+messenger app te maken. We zijn constant bezig met onze community om
+de beveiliging van ons protocol en de diverse clients te verbeteren.
 
 Hier kun je meer te weten komen over de beveiliging van Telegram:
-https://telegram.org/faq#security
+  https://telegram.org/faq#security
 
 
 {KEYS}
@@ -207,19 +236,29 @@ deleted from a Secret Chat on your device (even without the timer) it
 is also deleted from your partner's device.
 
 You can find more info on Secret Chats and self-destruct timers in the FAQ:
-https://telegram.org/faq#secret-chats
+  https://telegram.org/faq#secret-chats
 
 {KEYS}
 nl_secretchats
 nl_sc
 {VALUE}
-Privégesprekken(Secret Chat) zijn de meest veilige vorm van communicatie binnen Telegram. Alle berichten en iedere vorm van media binnen een privégesprek maken gebruik van end-to-end encryptie, alleen jij en de persoon waarmee je communiceert kunnen deze berichten lezen.
-In privégesprekken kun je gebruik maken van een verlooptijd, zodra de verlooptijd verstrijkt worden de berichten automatisch verwijderd van beide apparaten.
+Privégesprekken(Secret Chat) zijn de meest veilige vorm van
+communicatie binnen Telegram. Alle berichten en iedere vorm van media
+binnen een privégesprek maken gebruik van end-to-end encryptie, alleen
+jij en de persoon waarmee je communiceert kunnen deze berichten lezen.
 
-In de meest recente officiële apps is het ook zo dat wanneer je een bericht verwijderd uit een privégesprek (zonder dat er een verlooptijd is ingesteld) het bericht ook verdwijnt bij de persoon waar je het privégesprek mee voert.
+In privégesprekken kun je gebruik maken van een verlooptijd, zodra de
+verlooptijd verstrijkt worden de berichten automatisch verwijderd van
+beide apparaten.
 
-Meer informatie over de privégesprek functie en verlooptijd is hier in de FAQ te vinden:
-https://telegram.org/faq#secret-chats
+In de meest recente officiële apps is het ook zo dat wanneer je een
+bericht verwijderd uit een privégesprek (zonder dat er een verlooptijd
+is ingesteld) het bericht ook verdwijnt bij de persoon waar je het
+privégesprek mee voert.
+
+Meer informatie over de privégesprek functie en verlooptijd is hier in
+de FAQ te vinden:
+  https://telegram.org/faq#secret-chats
 
 {KEYS}
 secretstart
@@ -231,8 +270,7 @@ iPhone — start a new message (button in the top-right corner), then choose ‘
 Android — choose ‘New secret chat’ in the ‘⋮’ menu (top-right corner)
 
 You can find more info on Secret Chats in the FAQ:
-https://telegram.org/faq#secret-chats
-
+  https://telegram.org/faq#secret-chats
 
 
 {KEYS}
@@ -241,17 +279,15 @@ sd
 {VALUE}
 Self-destruct timers are available in Secret Chats.
 You can learn more about them here:
-https://telegram.org/faq#q-how-do-self-destructing-messages-work
-
-
+  https://telegram.org/faq#q-how-do-self-destructing-messages-work
 
 
 {KEYS}
-en_delete
-en_del
+delete
+del
 {VALUE}
 You can delete your account here: (use a pc for this, not your phone)
-https://telegram.org/deactivate
+  https://telegram.org/deactivate
 
 May I ask why you are leaving?
 
@@ -260,12 +296,9 @@ nl_delete
 nl_del
 {VALUE}
 Je kunt je account hier verwijderen (gebruik een pc hiervoor, niet je mobiel):
-https://telegram.org/deactivate
+  https://telegram.org/deactivate
 
 Ik ben ook benieuwd waarom je het account wil verwijderen?
-
-
-
 
 {KEYS}
 lastseen
@@ -273,8 +306,6 @@ ls
 {VALUE}
 For the moment, we don‘t have an ’invisible' mode in Telegram. But we
 may add it in the future.
-
-
 
 {KEYS}
 emoji
@@ -285,8 +316,6 @@ Keyboard — Keyboards — Add a keyboard.. Then find Emoji in the list.
 You can switch to this keyboard whenever you want to use an emoticon.
 
 
-
-
 {KEYS}
 creategroup
 gr
@@ -295,7 +324,6 @@ To create a group:
 
 iPhone — start a new message (button in the top-right corner), then choose ‘New group’
 Android — choose ‘New group’ in the ‘⋮’ menu (top-right corner)
-
 
 
 {KEYS}
@@ -309,7 +337,6 @@ In Telegram:
 Android media and files folder
 
 
-
 {KEYS}
 sdfilecache
 sdpath
@@ -317,8 +344,8 @@ sdpath
 Downloaded files are automatically stored in this folder:
 /sdcard/android/data/org.telegram.messenger/cache
 
-You can always tap next to a file in Telegram (not on it, but next to it on the same line) and choose ‘save to download folder’.
-
+You can always tap next to a file in Telegram (not on it, but next to
+it on the same line) and choose ‘save to download folder’.
 
 
 {KEYS}
@@ -326,11 +353,10 @@ panic
 dp
 {VALUE}
 Telegram is a noncommercial open-source project. Anyone can check our code and see exactly what our apps do:
-https://telegram.org/apps
+  https://telegram.org/apps
 
 Here are some articles about Telegram in respectable media like the BBC, Reuters and others:
-https://telegram.org/press
-
+  https://telegram.org/press
 
 
 {KEYS}
@@ -402,7 +428,7 @@ If you have the unofficial Telegram, S-edition installed, check if
 notifications are enabled in both apps.
 
 Follow this link and see if you have Google Play Services:
-https://play.google.com/store/apps/details?id=com.google.android.gms
+  https://play.google.com/store/apps/details?id=com.google.android.gms
 
 Do you have a google account connected to your phone?
 
@@ -416,14 +442,20 @@ yw
 {VALUE}
 You're welcome!
 
-
-
 {KEYS}
 en_name
 {VALUE}
 Our name is 'Telegram Support Force (TSF)'
+
 {KEYS}
 nl_name
 {VALUE}
 Onze naam is 'Telegram Support Force (TSF)'
+
+
+{KEYS}
+nl_hallo
+{VALUE}
+Hoi, mijn naam is ... Samen met een aantal anderen geef ik
+support voor Telegram in Nederland. Kan ik je ergens mee helpen?
 
