@@ -459,3 +459,17 @@ nl_hallo
 Hoi, mijn naam is ... Samen met een aantal anderen geef ik
 support voor Telegram in Nederland. Kan ik je ergens mee helpen?
 
+{KEYS}
+blocked
+{VALUE}
+Blocked users can see if you are online or have been online. Just the
+messages they sent will be blocked. From their point of view it is as
+if you are completely ignoring them.
+
+{KEYS}
+nl_blocked
+{VALUE}
+Geblokkeerde gebruikers kunnen zien of je online bent of bent
+geweest. Alleen berichten van geblokeerde gebruikers worden niet meer
+getoond. Voor de geblokkeerde gebruiker ziet het er uit alsof je hem
+of haar compleet negeert.
