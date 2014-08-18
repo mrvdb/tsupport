@@ -39,7 +39,7 @@ nl_tg
 Telegram is het beste van SMS en email gecombineerd, snel, veelzijdig
 en krachtig. Je kunt berichten versturen, video's en willekeurige
 andere bestanden (.doc,.zip,.mp3,enz.) naar mensen in je adresboek die
-Telegram geÃ¯nstalleerd hebben. Ook kun je groepen aanmaken met een
+Telegram geïnstalleerd hebben. Ook kun je groepen aanmaken met een
 maximale grootte van 200 mensen.
 
 Telegram maakt het mogelijk om dit tegelijkertijd te doen op al je apparaten.
