@@ -15,7 +15,6 @@ which can be found here:
 The version you use now does not get updated anymore, as far as I
 know.
 After you have installed the new version, you may remove the old app.
-Nadat je die hebt geïnstalleerd kun je deze (de oude) verwijderen als je wilt.
 
 {KEYS}
 nl_update
