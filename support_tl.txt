@@ -367,10 +367,22 @@ sdfilecache
 sdpath
 {VALUE}
 Downloaded files are automatically stored in this folder:
-/sdcard/android/data/org.telegram.messenger/cache
+/sdcard/Android/data/org.telegram.messenger/cache
 
 You can always tap next to a file in Telegram (not on it, but next to
 it on the same line) and choose ‘save to download folder’.
+
+{KEYS}
+nl_sdfilecache
+nl_sdpath
+{VALUE}
+Bestanden worden automatisch opgeslagen in deze folder:
+
+  /sdcard/Android/data/org.telegram.messenger/cache
+
+Je kunt altijd *naast* een bestand tikken in Telegrm (niet op het
+bestand, maar ernaast op dezelfde regel) en dan kiezen voor
+'save to download folder'
 
 
 {KEYS}
