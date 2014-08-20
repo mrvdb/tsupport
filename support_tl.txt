@@ -3,7 +3,7 @@ testi
 {VALUE}
 img:screenshots/test.jpg
 
-{KEYS}
+{KEYS}sr
 spam
 {VALUE}
 img:screenshots/spam.jpg
@@ -355,10 +355,10 @@ You can find more info on Secret Chats in the FAQ:
 nl_secretstart
 nl_scs
 {VALUE}
-Om een privégesrpeke te starten:
+Om een privégesprek te starten:
 
 iPhone — in Chats, start een nieuwe chat (knop rechtsboven), kies daarna ‘Nieuw privégesprek’
-Android — kies ‘Nieuw privégesrpek’ in het ‘⋮’ menu (rechtsboven)
+Android — kies ‘Nieuw privégesprek’ in het ‘⋮’ menu (rechtsboven)
 
 Er is meer informatie over privégesprekken te vinden in de FAQ:
 
@@ -477,7 +477,7 @@ bestand, maar ernaast op dezelfde regel) en dan kiezen voor
 {KEYS} panic dp {VALUE} Telegram is a noncommercial open-source
 project. Anyone can check our code and see exactly what our apps do:
 
-  https://telegram.org/apps
+  https://telegram.org/
 
 Here are some articles about Telegram in respectable media like the
 BBC, Reuters and others:
@@ -490,7 +490,7 @@ nl_panic
 nl_dp
 {VALUE}
 Telegram is a niet-commercieel open-source project. Iedereen kan de
-code bedrkijke en precies controleren wat onze apps doen:
+code bekijken en precies controleren wat onze apps doen:
 
   https://telegram.org/apps
 
@@ -627,7 +627,7 @@ nl_notifyandroid
 nl_nota
 {VALUE}
 Controleer of de meldingen aan staan voor de specifieke groep of
-chat. (Ga naar de Chat of Groep Info — Meldingen en Geleuiden en
+chat. (Ga naar de Chat of Groeps Info — Meldingen en Geluiden en
 controleer of deze aan staan.)
 
 
