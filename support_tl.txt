@@ -4,13 +4,36 @@ testi
 img:screenshots/test.jpg
 
 {KEYS}
+spam
+{VALUE}
+img:screenshots/spam.jpg
+
+{KEYS}
+nl_icont1
+{VALUE}
+img:screenshots/nl_icontacthd_1.jpg
+{KEYS}
+nl_icont2
+{VALUE}
+img:screenshots/nl_icontacthd_2.jpg
+{KEYS}
+nl_icont3
+{VALUE}
+img:screenshots/nl_icontacthd_3.jpg
+{KEYS}
+nl_icont4
+{VALUE}
+img:screenshots/nl_icontacthd_4.jpg
+
+
+{KEYS}
 update
 upd
 {VALUE}
 There is a newer version of Telegram than the one you have installed,
 which can be found here:
 
-  https://itunes.apple.com/nl/app/telegram-hd/id898228810?mt=8
+  https://itunes.apple.com/en/app/telegram-hd/id898228810?mt=8
 
 The version you use now does not get updated anymore, as far as I
 know.
@@ -28,6 +51,42 @@ je nu gebruikt, deze is hier te vinden:
 
 De versie die je nu gebruikt krijgt, voor zover ik weet, geen updates meer.
 Nadat je die hebt geïnstalleerd kun je deze (de oude) verwijderen als je wilt.
+
+{KEYS}
+update_TLDR
+upd_TLDR
+{VALUE}
+Quick guide:
+
+1. Search for "Telegram HD" in the Appstore and install it.
+2. Logon to Telegram with the number you've currently registered.
+3. The logon code will be sent to your old Telegram version.
+4. Enter the code in the new Telegram HD app and you're good to go!
+
+Your contacts, regular chats and group chats will be transferred into the new Telegram HD app.
+Keep in mind however that secret chats will not be transfered.
+
+Please remove the old version only you're sure everything is working as intended again in Telegram HD.
+
+
+{KEYS}
+nl_update_TLDR
+nl_upd_TLDR
+{VALUE}
+Goed Nieuws,
+Er is een nieuwe versie van Telegram beschikbaar, de versie die je nu gebruikt krijgt geen updates meer, dus het is verstandig om over te stappen.
+
+Korte handleiding:
+
+1. In de Appstore zoeken naar "Telegram HD" en deze installeren.
+2. Telegram HD starten en aanmelden met het nummer dat je nu ook gebruikt voor de oude versie.
+3. De code om in te loggen komt binnen op je oude Telegram app.
+4. Code invoeren in de nieuwe HD app en klaar ben je.
+
+Je contacten, normale chats en groepschats zijn direct weer beschikbaar in de nieuwe Telegram HD app.
+Hou er wel rekening mee dat privégesprekken niet over gaan naar de nieuwe versie.
+
+Verwijder, nadat je zeker weet dat alles weer naar behoren werkt, de oude versie.
 
 {KEYS}
 telegram
