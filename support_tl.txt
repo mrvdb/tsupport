@@ -4,10 +4,25 @@ testi
 img:screenshots/test.jpg
 
 {KEYS}
+update
+upd
+{VALUE}
+There is a newer version of Telegram than the one you have installed,
+which can be found here:
+
+  https://itunes.apple.com/nl/app/telegram-hd/id898228810?mt=8
+
+The version you use now does not get updated anymore, as far as I
+know.
+After you have installed the new version, you may remove the old app.
+Nadat je die hebt geïnstalleerd kun je deze (de oude) verwijderen als je wilt.
+
+{KEYS}
+nl_update
 nl_upd
 {VALUE}
-Nog een kleine toevoeging, we hebben een nieuwe versie van Telegram
-uitgebracht, die is hier te vinden:
+Er is een nieuwere versie van Telegram beschikbaar dan de versie die
+je nu gebruikt, deze is hier te vinden:
 
   https://itunes.apple.com/nl/app/telegram-hd/id898228810?mt=8
 
@@ -306,6 +321,17 @@ ls
 {VALUE}
 For the moment, we don‘t have an ’invisible' mode in Telegram. But we
 may add it in the future.
+If you want to appear offline for certain users, you can (temporarily)
+block them.
+
+{KEYS}
+nl_lastseen
+nl_ls
+{VALUE}
+Op dit moment is er geen 'onzichtbaar' status in Telegram. Dit zou in
+de toekomst kunnen veranderen.
+Als je voor specifieke contactpersonen 'offline' wil zijn kun je die
+persoon (tijdelijk) blokkeren.
 
 {KEYS}
 emoji
