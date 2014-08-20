@@ -357,7 +357,7 @@ nl_scs
 {VALUE}
 Om een privégesrpeke te starten:
 
-iPhone — start een nieuwe chat (button in the top-right corner), kies daarna ‘Nieuw privégesprek’
+iPhone — in Chats, start een nieuwe chat (knop rechtsboven), kies daarna ‘Nieuw privégesprek’
 Android — kies ‘Nieuw privégesrpek’ in het ‘⋮’ menu (rechtsboven)
 
 Er is meer informatie over privégesprekken te vinden in de FAQ:
@@ -518,7 +518,7 @@ Kun je het volgende even proberen?
 
 Verander de naam  van de contactpersoon in het adresboek (voeg een
 letter toe, en haal hem dan weer weg). Als dat niet helpt, log dan
-even opnieuw in. (in Telegram: Settings — Wijzig — Log out. Daarna
+even opnieuw in. (in Telegram: Instellingen — Wijzig — Log uit. Daarna
 weer inloggen.
 
 {KEYS}
@@ -593,19 +593,19 @@ Should work. Tell me if it doesn't.
 nl_notifyiphone
 nl_noti
 {VALUE}
-Controleer even of notificaties in Telegram EN in de algemene
-instellingen aan staan (Settings — Notification Center).
+Controleer even of berichtgeving in Telegram EN in de algemene
+instellingen aan staan (Instellingen — Berichtencentrum).
 
 Controleer ook of de meldingen voor de specifieke groep of chat aan
-staan. (Ga naar Chat of Group Info — Wijzig — controleer of the
+staan. (Ga naar Chat of Groeps Info — Wijzig — controleer of the
 meldingen aan staan).
 
 Als alles op AAN staat, kun je dit proberen: sluit Telegram volledig
 af (ga naar het Home scherm, hou de home knop vast, sluit Telegram af
-(naar boven vegen), ga daarna naar de telefooninstellingen en ze de
-berichtenstijl voor Telegram op GEEN.
-Herstart Telegram, ga weer naar de instelling en ze de stijl op
-'Banners'
+(naar boven vegen), ga daarna naar Instellingen, Berichtencentrum, Telegram en zet de
+Meldingsstijl voor Telegram op GEEN.
+Herstart Telegram, ga weer naar de instelling en zet de stijl op
+Stroken
 
 Als het niet werkt, laat het dan even weten.
 
