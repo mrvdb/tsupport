@@ -9,6 +9,11 @@ spam
 img:screenshots/spam.jpg
 
 {KEYS}
+selfie
+{VALUE}
+img:screenshots/selfie.jpg
+
+{KEYS}
 nl_icont1
 {VALUE}
 img:screenshots/nl_icontacthd_1.jpg
@@ -591,3 +596,24 @@ volgende dingen betekenen:
   nog wel.
   3. Telegram is verwijderd van het apparaat;
   4. De persoon heeft je geblokkeerd.
+  
+{KEYS}
+broadcastdelA
+{VALUE}
+Open the broadcastlist, tap the broadcastlist picture, now hold the contact you'd like to remove, select "Remove from broadcast list".
+{KEYS}
+nl_broadcastdelA
+{VALUE}
+In de lijst van deelnemers in verzendlijst, contact lang aantappen, dan verschijnt 'remove' menuitem.
+
+{KEYS}
+quest
+{VALUE}
+did you want to ask us a question about Telegram?
+
+{KEYS}
+nl_quest
+{VALUE}
+wilde je een vraag over Telegram aan ons stellen?
+
+  
