@@ -288,12 +288,37 @@ You can find more info on Secret Chats in the FAQ:
 
 
 {KEYS}
+nl_secretstart
+nl_scs
+{VALUE}
+Om een privégesrpeke te starten:
+
+iPhone — start een nieuwe chat (button in the top-right corner), kies daarna ‘Nieuw privégesprek’
+Android — kies ‘Nieuw privégesrpek’ in het ‘⋮’ menu (rechtsboven)
+
+Er is meer informatie over privégesprekken te vinden in de FAQ:
+
+  https://telegram.org/faq#secret-chats
+
+
+{KEYS}
 timer
 sd
 {VALUE}
 Self-destruct timers are available in Secret Chats.
 You can learn more about them here:
   https://telegram.org/faq#q-how-do-self-destructing-messages-work
+
+{KEYS}
+nl_timer
+nl_sd
+{VALUE}
+In privégesprekken is een verlooptijd mogelijk.
+
+Deze link bevat meer informatie hierover:
+
+  https://telegram.org/faq#q-how-do-self-destructing-messages-work
+
 
 
 {KEYS}
@@ -385,16 +410,30 @@ bestand, maar ernaast op dezelfde regel) en dan kiezen voor
 'save to download folder'
 
 
-{KEYS}
-panic
-dp
-{VALUE}
-Telegram is a noncommercial open-source project. Anyone can check our code and see exactly what our apps do:
+{KEYS} panic dp {VALUE} Telegram is a noncommercial open-source
+project. Anyone can check our code and see exactly what our apps do:
+
   https://telegram.org/apps
 
-Here are some articles about Telegram in respectable media like the BBC, Reuters and others:
+Here are some articles about Telegram in respectable media like the
+BBC, Reuters and others:
+
   https://telegram.org/press
 
+
+{KEYS}
+nl_panic
+nl_dp
+{VALUE}
+Telegram is a niet-commercieel open-source project. Iedereen kan de
+code bedrkijke en precies controleren wat onze apps doen:
+
+  https://telegram.org/apps
+
+Hier is een link naar wat artikelen over Telegram in de media zoals de
+BBC, Reuters en anderen:
+
+  https://telegram.org/press
 
 {KEYS}
 contactiphone
@@ -407,7 +446,16 @@ few symbols, then change back again) If that doesn’t help, try to
 relogin (in Telegram: go to Settings — Edit — Log out, then log in
 again)
 
+{KEYS}
+nl_contactiphone
+nl_coni
+{VALUE}
+Kun je het volgende even proberen?
 
+Verander de naam  van de contactpersoon in het adresboek (voeg een
+letter toe, en haal hem dan weer weg). Als dat niet helpt, log dan
+even opnieuw in. (in Telegram: Settings — Wijzig — Log out. Daarna
+weer inloggen.
 
 {KEYS}
 contactandroid
@@ -420,7 +468,16 @@ currently-running-apps list and swipe the app off the list.
 Temporarily change the name of the contact in phone contacts (add a
 few symbols, then change back again)
 
+{KEYS}
+nl_contactandroid
+nl_cona
+{VALUE}
+Kun je het volgende even proberen?
 
+Sluit de app geforceerd af en start deze opnieuw. Om dit te doen, ga
+naar de lijst van draaiende apps en veeg de app van de lijst.
+Verander de naam van de contactpersoon in het adresboek tijdelijk
+(bijv. door even een letter toe te voegen en weer weg te halen)
 
 {KEYS}
 contactbug
@@ -434,6 +491,21 @@ How exactly this numbers are stored in your phone book (international
 or local format?)
 
 Thanks!
+
+
+{KEYS}
+nl_contactbug
+nl_conb
+{VALUE}
+Het lijkt alsof er inderdaard wat mis is. We moeten hier even
+induiken.
+Heb je de volgende informatie voor mij:
+
+  - het tel.nr. van de ander
+  - hoe precies dit nummer in het adresboek is opgeslagen
+    (in internationaal formaat, of startend met een 0 bijv.)
+
+Bedankt!
 
 {KEYS}
 notifyiphone
@@ -454,6 +526,26 @@ to Phone Settings, set alert style back to banners.
 Should work. Tell me if it doesn't.
 
 {KEYS}
+nl_notifyiphone
+nl_noti
+{VALUE}
+Controleer even of notificaties in Telegram EN in de algemene
+instellingen aan staan (Settings — Notification Center).
+
+Controleer ook of de meldingen voor de specifieke groep of chat aan
+staan. (Ga naar Chat of Group Info — Wijzig — controleer of the
+meldingen aan staan).
+
+Als alles op AAN staat, kun je dit proberen: sluit Telegram volledig
+af (ga naar het Home scherm, hou de home knop vast, sluit Telegram af
+(naar boven vegen), ga daarna naar de telefooninstellingen en ze de
+berichtenstijl voor Telegram op GEEN.
+Herstart Telegram, ga weer naar de instelling en ze de stijl op
+'Banners'
+
+Als het niet werkt, laat het dan even weten.
+
+{KEYS}
 notifyandroid
 nota
 {VALUE}
@@ -461,13 +553,27 @@ Are you sure notifications aren't disabled for a specific chat or
 group? (Go to Chat or Group Info — make sure Notifications are set to
 ON).
 
-If you have the unofficial Telegram, S-edition installed, check if
-notifications are enabled in both apps.
-
 Follow this link and see if you have Google Play Services:
   https://play.google.com/store/apps/details?id=com.google.android.gms
 
 Do you have a google account connected to your phone?
+
+{KEYS}
+nl_notifyandroid
+nl_nota
+{VALUE}
+Controleer of de meldingen aan staan voor de specifieke groep of
+chat. (Ga naar de Chat of Groep Info — Meldingen en Geleuiden en
+controleer of deze aan staan.)
+
+
+Controleer ook of Google Play services is geïnstalleerd door deze link
+te volgen:
+
+  https://play.google.com/store/apps/details?id=com.google.android.gms
+
+Is er een google account verbonden met de telefoon?
+
 
 {KEYS}
 q
