@@ -69,7 +69,8 @@ Quick guide:
 Your contacts, regular chats and group chats will be transferred into the new Telegram HD app.
 Keep in mind however that secret chats will not be transfered.
 
-Please remove the old version only you're sure everything is working as intended again in Telegram HD.
+Please remove the old version only you're sure everything is working
+as intended again in Telegram HD.
 
 
 {KEYS}
@@ -77,7 +78,9 @@ nl_update_TLDR
 nl_upd_TLDR
 {VALUE}
 Goed Nieuws,
-Er is een nieuwe versie van Telegram beschikbaar, de versie die je nu gebruikt krijgt geen updates meer, dus het is verstandig om over te stappen.
+Er is een nieuwe versie van Telegram beschikbaar, de versie die je nu
+gebruikt krijgt geen updates meer, dus het is verstandig om over te
+stappen.
 
 Korte handleiding:
 
@@ -86,10 +89,12 @@ Korte handleiding:
 3. De code om in te loggen komt binnen op je oude Telegram app.
 4. Code invoeren in de nieuwe HD app en klaar ben je.
 
-Je contacten, normale chats en groepschats zijn direct weer beschikbaar in de nieuwe Telegram HD app.
-Hou er wel rekening mee dat privégesprekken niet over gaan naar de nieuwe versie.
+Je contacten, normale chats en groepschats zijn direct weer
+beschikbaar in de nieuwe Telegram HD app.  Hou er wel rekening mee dat
+privégesprekken niet over gaan naar de nieuwe versie.
 
-Verwijder, nadat je zeker weet dat alles weer naar behoren werkt, de oude versie.
+Verwijder, nadat je zeker weet dat alles weer naar behoren werkt, de
+oude versie.
 
 {KEYS}
 telegram
