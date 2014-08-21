@@ -195,7 +195,8 @@ large videos and files of any type (.doc, .ppt, .zip, etc.). Telegram
 is a noncommercial open source project.
 
 You can use Telegram on all your devices at once (including desktop
-computers and no-wifi devices). Here's a full list of Telegram apps:
+computers and devices without 3G data). Here's a full list of Telegram apps:
+
   https://telegram.org/apps
 
 If you want to learn more about Telegram, check out our FAQ:
@@ -213,7 +214,7 @@ video's en willekeurige andere bestanden (.doc, .ppt, .zip, enz.)
 delen. Telegram is een non-commercieel, open source project.
 
 Je kunt Telegram op al je apparaten tegelijkertijd gebruiken
-(inclusief desktop computers en apparaten zonder WiFi).
+(inclusief desktop computers en apparaten zonder 3G-data).
 Hier is een lijst met Telegram apps voor mobiele apparaten en desktops.
   https://telegram.org/apps
 
