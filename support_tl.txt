@@ -3,7 +3,7 @@ testi
 {VALUE}
 img:screenshots/test.jpg
 
-{KEYS}
+{KEYS}sr
 spam
 {VALUE}
 img:screenshots/spam.jpg
@@ -360,10 +360,10 @@ You can find more info on Secret Chats in the FAQ:
 nl_secretstart
 nl_scs
 {VALUE}
-Om een privégesrpeke te starten:
+Om een privégesprek te starten:
 
-iPhone — start een nieuwe chat (button in the top-right corner), kies daarna ‘Nieuw privégesprek’
-Android — kies ‘Nieuw privégesrpek’ in het ‘⋮’ menu (rechtsboven)
+iPhone — in Chats, start een nieuwe chat (knop rechtsboven), kies daarna ‘Nieuw privégesprek’
+Android — kies ‘Nieuw privégesprek’ in het ‘⋮’ menu (rechtsboven)
 
 Er is meer informatie over privégesprekken te vinden in de FAQ:
 
@@ -482,7 +482,7 @@ bestand, maar ernaast op dezelfde regel) en dan kiezen voor
 {KEYS} panic dp {VALUE} Telegram is a noncommercial open-source
 project. Anyone can check our code and see exactly what our apps do:
 
-  https://telegram.org/apps
+  https://telegram.org/
 
 Here are some articles about Telegram in respectable media like the
 BBC, Reuters and others:
@@ -495,7 +495,7 @@ nl_panic
 nl_dp
 {VALUE}
 Telegram is a niet-commercieel open-source project. Iedereen kan de
-code bedrkijke en precies controleren wat onze apps doen:
+code bekijken en precies controleren wat onze apps doen:
 
   https://telegram.org/apps
 
@@ -523,7 +523,7 @@ Kun je het volgende even proberen?
 
 Verander de naam  van de contactpersoon in het adresboek (voeg een
 letter toe, en haal hem dan weer weg). Als dat niet helpt, log dan
-even opnieuw in. (in Telegram: Settings — Wijzig — Log out. Daarna
+even opnieuw in. (in Telegram: Instellingen — Wijzig — Log uit. Daarna
 weer inloggen.
 
 {KEYS}
@@ -598,19 +598,19 @@ Should work. Tell me if it doesn't.
 nl_notifyiphone
 nl_noti
 {VALUE}
-Controleer even of notificaties in Telegram EN in de algemene
-instellingen aan staan (Settings — Notification Center).
+Controleer even of berichtgeving in Telegram EN in de algemene
+instellingen aan staan (Instellingen — Berichtencentrum).
 
 Controleer ook of de meldingen voor de specifieke groep of chat aan
-staan. (Ga naar Chat of Group Info — Wijzig — controleer of the
+staan. (Ga naar Chat of Groeps Info — Wijzig — controleer of the
 meldingen aan staan).
 
 Als alles op AAN staat, kun je dit proberen: sluit Telegram volledig
 af (ga naar het Home scherm, hou de home knop vast, sluit Telegram af
-(naar boven vegen), ga daarna naar de telefooninstellingen en ze de
-berichtenstijl voor Telegram op GEEN.
-Herstart Telegram, ga weer naar de instelling en ze de stijl op
-'Banners'
+(naar boven vegen), ga daarna naar Instellingen, Berichtencentrum, Telegram en zet de
+Meldingsstijl voor Telegram op GEEN.
+Herstart Telegram, ga weer naar de instelling en zet de stijl op
+Stroken
 
 Als het niet werkt, laat het dan even weten.
 
@@ -632,7 +632,7 @@ nl_notifyandroid
 nl_nota
 {VALUE}
 Controleer of de meldingen aan staan voor de specifieke groep of
-chat. (Ga naar de Chat of Groep Info — Meldingen en Geleuiden en
+chat. (Ga naar de Chat of Groeps Info — Meldingen en Geluiden en
 controleer of deze aan staan.)
 
 
