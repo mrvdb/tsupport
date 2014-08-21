@@ -40,8 +40,7 @@ which can be found here:
 
   https://itunes.apple.com/en/app/telegram-hd/id898228810?mt=8
 
-The version you use now does not get updated anymore, as far as I
-know.
+The version you use now does not get updated anymore.
 After you have installed the new version, you may remove the old app.
 
 {KEYS}
@@ -53,7 +52,7 @@ je nu gebruikt, deze is hier te vinden:
 
   https://itunes.apple.com/nl/app/telegram-hd/id898228810?mt=8
 
-De versie die je nu gebruikt krijgt, voor zover ik weet, geen updates meer.
+De versie die je nu gebruikt krijgt geen updates meer.
 Nadat je die hebt geïnstalleerd kun je deze (de oude) verwijderen als je wilt.
 
 {KEYS}
