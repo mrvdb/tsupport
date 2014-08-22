@@ -169,18 +169,6 @@ You can learn more about them here:
   https://telegram.org/faq#q-how-do-self-destructing-messages-work
 
 {KEYS}
-nl_timer
-nl_sd
-{VALUE}
-In privégesprekken is een verlooptijd mogelijk.
-
-Deze link bevat meer informatie hierover:
-
-  https://telegram.org/faq#q-how-do-self-destructing-messages-work
-
-
-
-{KEYS}
 delete
 del
 {VALUE}
@@ -360,10 +348,6 @@ When a user shows as offline this can mean a number of things:
 broadcastdelA
 {VALUE}
 Open the broadcastlist, tap the broadcastlist picture, now hold the contact you'd like to remove, select "Remove from broadcast list".
-{KEYS}
-nl_broadcastdelA
-{VALUE}
-In de lijst van deelnemers in verzendlijst, contact lang aantappen, dan verschijnt 'remove' menuitem.
 
 {KEYS}
 quest
