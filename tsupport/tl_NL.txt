@@ -26,7 +26,7 @@ je nu gebruikt, deze is hier te vinden:
   https://itunes.apple.com/nl/app/telegram-hd/id898228810?mt=8
 
 De versie die je nu gebruikt krijgt geen updates meer.
-Nadat je die hebt geïnstalleerd kun je deze (de oude) verwijderen als je wilt.
+Nadat je die hebt geïnstalleerd kun je deze (de oude) verwijderen.
 
 {KEYS}
 nl_update_TLDR
@@ -352,15 +352,8 @@ Wanneer gebruikers zijn geblokkeerd kunnen zij:
 {KEYS}
 nl_offline
 {VALUE}
-Wanneer de status van een persoon op 'offline' staat, kan dit de
-volgende dingen betekenen:
-
-  1. De gebruiker is daadwerkelijk offline, er is geen verbinding
-  mogelijk met het apparaat waarop Telegram is geïnstalleerd;
-  2. De gebruiker heeft zichzelf afgemeld, maar het account bestaat
-  nog wel.
-  3. Telegram is verwijderd van het apparaat;
-  4. De persoon heeft je geblokkeerd.
+Wanneer de status van een persoon op 'offline' betekent dit dat je op
+de lijst van geblokkeerde gebruikers staat bij die persoon.
   
 {KEYS}
 nl_broadcastdelA
