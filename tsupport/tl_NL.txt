@@ -227,6 +227,17 @@ Als je voor specifieke contactpersonen 'offline' wil zijn kun je die
 persoon (tijdelijk) blokkeren.
 
 {KEYS}
+nl_emoji
+{VALUE}
+Om emoticons in iOS te gebruiken is het emoji keyboard nodig. Ga naar
+Instellingen — Toetsenbord — Toetsenborden — Voeg toetsenbord toe.
+Zoek naar Emoji in de lijst.
+
+Vanaf dan kun je op elk moment schakelen naar dat toetsenbord als je
+een emoticon wil gebruiken.
+
+
+{KEYS}
 nl_sdfilecache
 nl_sdpath
 {VALUE}
