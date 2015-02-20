@@ -9,7 +9,7 @@
   "Tsupport major mode, editting support templates etc.")
 
 (defun tsupport-tokens()
-  (rx (and "{" (group (or "KEYS" "VALUE")) "}")))
+  (rx (and "{" (group (or "KEYS" "VALUE" "QUESTION" "URL" "COMMENT")) "}")))
 
 (defun tsupport-regex()
   (rx (group
